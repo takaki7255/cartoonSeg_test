@@ -18,7 +18,7 @@ Implementations of the paper _Instance-guided Cartoon Editing with a Large-scale
   <img src="https://cartoonsegmentation.github.io/AnimeIns_files/teaser/teaser13.jpg" width="24%" />
 </p>
 
-
+Dataset: https://huggingface.co/datasets/dreMaz/AnimeInstanceSegmentationDataset
 
 ## Preperation
 
